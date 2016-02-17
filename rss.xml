@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[mangopeople.org.in]]></title>
         <description><![CDATA[mangopeople.org.in]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mangopeople-org-in/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 06:03:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Feb 2016 06:11:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mangopeople-org-in/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c11e53fa-e085-47d7-a71d-070c18662d2e.png">]]></description>
-            <link>undefined52c6aa46-4d30-46b8-9964-e59481da8575/index.html</link>
+            <link>https://thegrid.ai/mangopeople-org-in/52c6aa46-4d30-46b8-9964-e59481da8575/index.html</link>
             <guid isPermaLink="false">52c6aa46-4d30-46b8-9964-e59481da8575</guid>
-            <pubDate>Wed, 17 Feb 2016 06:02:57 GMT</pubDate>
+            <pubDate>Wed, 17 Feb 2016 06:11:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
